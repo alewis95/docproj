@@ -1,0 +1,181 @@
+ <!-- 
+  <div class="portfolio">
+
+    <h4>PROJECTS</h4>
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="../TravelWeb/travelIndex.html"><img align="center" alt="Travel Site" class="img-responsive" src="travelwebsite.jpg"/></a> 
+
+
+          <a href="../TravelWeb/travelIndex.html">
+          <h2 align="center">TRAVEL BOOKINGS</h2></a>
+
+        </div><!--end service1-->
+<!--BOARD
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a  href="Lawindex.html" target="_blank"><img src="lawwebsite.jpg" alt="Law" class="img-responsive" /></a> 
+
+          <a href="Lawindex.html" target="_blank">
+          <h2 align="center">LAW FIRM SITE</h2></a>
+
+        </div><!--end of service2-->
+<!--BOARD
+      </div><!--end of row 1-->
+
+  <!--BOARD    <div class="row">
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="Landscapeindex.html" target="_blank">
+          <img align="center" alt="Landscape" class="img-responsive" src="landscapewebsite.jpg"/></a> 
+
+          <a href="Landscapeindex.html" target="_blank">
+          <h2 align="center">LANDSCAPING COMPANY</h2></a>
+
+        </div><!--end of service3-->
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="http://sk3ptic-port.com.preview.services/"  target="_blank">
+          <img align="center" alt="My Photo Site" class="img-responsive" src="pw.jpg"></a> 
+
+          <a href="http://sk3ptic-port.com.preview.services/" target="_blank">
+          <h2 align="center">MY OWN PHOTOGRAPHY SITE</h2></a>
+
+        </div><!--end service4-->
+
+      </div><!--end of row 2-->
+
+	  <!--BOARD
+      <div class="row">
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="oceanIndex.html" target="_blank"><img align="center" alt="Ocean Site" class="img-responsive" src="ocean.jpg"></a> 
+
+          <a href="oceanIndex.html" target="_blank">
+          <h2 align="center">AQUARIUM WEBSITE</h2></a>
+
+        </div><!--end of site-->
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="wdApp.html"><img align="center" alt="Python Builder" class="img-responsive" src="wdApp.jpg"></a> 
+
+          <a href="wdApp.html">
+          <h2 align="center">PYTHON SITE MAKER</h2></a>
+
+        </div><!--end of site-->
+
+      </div><!--end of row 3-->
+
+<!--BOARD	  
+	   <div class="row"
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="indexPizza.html" target="_blank"><img align="center" alt="Pizza Shop Site" class="img-responsive" src="fakePizza.jpg"></a> 
+
+          <a href="indexPizza.html" target="_blank">
+          <h2 align="center">PIZZA SHOP SITE</h2></a>
+
+        </div><!--end of service5-->
+
+        <div class="col-md-6 col-sm-6" align="center">
+
+          <a href="fashionIndex.html" target="_blank"><img align="center" alt="Ecomerce Site" class="img-responsive" src="econ.jpg"></a> 
+
+          <a href="fashionIndex.html" target="_blank">
+          <h2 align="center">ECOMMERCE</h2></a>
+
+        </div><!--end of service6-->
+
+      </div><!--end of row 4-->
+
+<!--BOARD   
+   </div><!--end of container-->
+
+   <!--BOARD
+  </div><!--end of accounting-services--> 
+
+  <!-- <div class="testimonials">
+
+    <h4>TESTIMONIALS</h4>
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-4 col-sm-4">
+
+          <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sagittis eros. Ut quam augue, mattis et sagittis nec, rutrum id odio. Praesent nec dolor nisi. Phasellus vulputate augue vel quam lobortis interdum. Donec blandit sem eu lorem varius, ac placerat est imperdiet. Cras enim elit, bibendum nec maximus et, volutpat a urna...” <a class="read-more" href="http://yourwebsitename.com/testimonials.html">read more</a></p><br>
+          <p class="reviewer">- ANDREW (COMPANY NAME)</p>
+
+        </div>
+
+        <div class="col-md-4 col-sm-4">
+
+          <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sagittis eros. Ut quam augue, mattis et sagittis nec, rutrum id odio. Praesent nec dolor nisi. Phasellus vulputate augue vel quam lobortis interdum. Donec blandit sem eu lorem varius, ac placerat est imperdiet. Cras enim elit, bibendum nec maximus et, volutpat a urna...” <a class="read-more" href="http://yourwebsitename.com/testimonials.html">read more</a></p><br>
+
+          <p class="reviewer">- CHERYL STAPLES (COMPANY NAME)</p>
+
+        </div>
+
+        <div class="col-md-4 col-sm-4">
+
+          <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sagittis eros. Ut quam augue, mattis et sagittis nec, rutrum id odio. Praesent nec dolor nisi. Phasellus vulputate augue vel quam lobortis interdum. Donec blandit sem eu lorem varius, ac placerat est imperdiet. Cras enim elit, bibendum nec maximus et, volutpat a urna...” <a class="read-more" href="http://yourwebsitename.com/testimonials.html">read more</a></p><br>
+
+          <p class="reviewer">- KEVIN HAYES (COMPANY NAME)</p>
+
+        </div>
+
+      </div><!--end of row
+
+    </div>end of container
+
+  </div> <!--end of testimonials-->
+
+
+  <!-- <div class="clients">
+
+    <h4 align="center">CLIENTS</h4>
+
+    <div class="row" align="center">
+
+      <div class="col-md-2"></div>
+
+      <div class="col-md-2 col-sm-6 col-xs-6">
+
+          <img alt="client-logo-1" class="img-responsive" src="images/client-logo.png">
+
+      </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-6">
+
+          <img alt="client-logo-1" class="img-responsive" src="images/client-logo.png">
+
+      </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-6">
+
+          <img alt="client-logo-1" class="img-responsive" src="images/client-logo.png">
+
+      </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-6">
+
+          <img alt="client-logo-1" class="img-responsive" src="images/client-logo.png">
+
+      </div>
+
+      <div class="col-md-2"></div>
+
+    </div>
+
+  </div> --> <!--end clients-->
